@@ -1,0 +1,85 @@
+"","County","Type","Grouping","LowerBound","Median","UpperBound","COD","COV","PRD","PRB","Sales"
+"1","Randolph, Tipton","Industrial Vacant",3,NA,NA,NA,NA,NA,NA,NA,0
+"df_sp","Huntington, Blackford, Adams, Allen, Wells, Delaware","Industrial Improved",3,0.72,0.78,1,29.29,43.64,1.17,0,8
+"df_sp1","Hamilton, Tipton, Huntington, Madison, Jay, Wabash, Wells, Allen, Delaware","Commercial Vacant",3,0.25,0.83,1.09,48.88,69.49,1.09,0,14
+"2.5%","Jay, Tipton, Wells, Blackford, Henry, Huntington, Delaware, Adams, Grant, Wabash, Howard","Commercial Improved",3,0.88,0.94,0.98,20.22,30.95,1.11,0,128
+"2.5%1","Huntington, Allen, Delaware, Adams, Howard, Jay, Wells, Randolph, Blackford, Hamilton, Henry, Grant, Tipton, Wayne","Residential Vacant",3,0.76,0.91,1.04,51.09,69.9,1.35,0,135
+"2.5%2","Blackford, Wells, Jay, Howard, Tipton, Adams, Huntington, Randolph, Wabash, Henry, Miami, Delaware, Grant, Hamilton, Madison, Wayne, Allen","Residential Improved",3,0.95,0.95,0.96,12.97,18.41,1.02,0,4916
+"11","Noble, Lagrange, Kosciusko","Industrial Vacant",1,NA,NA,NA,NA,NA,NA,NA,0
+"2.5%3","Noble, Dekalb, Lagrange, Whitley, Elkhart, Kosciusko","Industrial Improved",1,0.54,0.68,0.84,28.77,33.6,1.11,0,27
+"df_sp2","Whitley, Noble, Kosciusko, Steuben","Commercial Vacant",1,0.25,0.67,0.77,57.44,86.94,3.24,0,12
+"2.5%4","Noble, Whitley, Kosciusko, Steuben, Lagrange, Dekalb, Elkhart, Wabash, Allen","Commercial Improved",1,0.81,0.89,0.96,25.97,36.52,1.34,0,93
+"2.5%5","Whitley, Noble, Steuben, Allen, Dekalb, Lagrange, Kosciusko, Elkhart","Residential Vacant",1,0.92,1,1.08,35.97,53.29,1.54,0,116
+"2.5%6","Noble, Allen, Kosciusko, Whitley, Elkhart, Dekalb, Steuben, Wabash, Lagrange, Huntington, St. Joseph","Residential Improved",1,0.94975,0.95,0.95,13.01,23.59,1.02,0,3056
+"df_sp3","Dearborn, Shelby, Jefferson, Scott, Jennings","Industrial Vacant",7,0.41,0.71,0.87,45.91,64.07,1.29,0,6
+"df_sp4","Rush, Decatur, Henry, Fayette, Jackson, Wayne, Jennings","Industrial Improved",7,0.65,0.86,0.96,20.76,28.35,1.01,0,14
+"2.5%7","Jennings, Henry, Ripley, Jefferson, Fayette, Scott, Jackson, Decatur","Commercial Vacant",7,0.99,1.02,1.11,28.89,48.31,1.35,0,25
+"2.5%8","Dearborn, Ripley, Jefferson, Decatur, Union, Shelby, Bartholomew, Jennings, Ohio, Jackson, Fayette, Franklin, Switzerland, Scott, Johnson, Brown, Hancock, Rush, Wayne","Commercial Improved",7,0.86,0.89,0.94,25.05,34.91,1.06,0,235
+"2.5%9","Shelby, Jefferson, Decatur, Jackson, Dearborn, Jennings, Wayne, Ripley, Franklin, Union, Fayette, Ohio, Rush, Brown, Scott, Washington, Clark, Johnson, Henry, Bartholomew, Switzerland","Residential Vacant",7,0.82,0.87,0.91,38.77,50.82,1.47,0,689
+"2.5%10","Fayette, Clark, Jennings, Dearborn, Jackson, Jefferson, Brown, Decatur, Ripley, Rush, Shelby, Franklin, Ohio, Union, Bartholomew, Henry, Switzerland, Hancock, Washington, Scott, Johnson, Wayne, Floyd","Residential Improved",7,0.91,0.92,0.92,15.8,24.4,1.04,0,5896
+"12","Jasper, Newton","Industrial Vacant",5,NA,NA,NA,NA,NA,NA,NA,0
+"df_sp5","Newton, Jasper, Lake","Industrial Improved",5,0.86,1.03,1.35,35.78,44.93,1.05,0,6
+"df_sp6","Jasper, Pulaski, Fountain","Commercial Vacant",5,0.69,0.95,1.02,31.83,53.42,1.05,0,10
+"2.5%11","Newton, Jasper, White, Lake, Porter, Fountain, Warren, Tippecanoe, Pulaski, Benton, Laporte","Commercial Improved",5,0.91,0.95,0.97,20.88,55.53,1.08,0,95
+"2.5%12","Newton, Jasper, Benton, Tippecanoe, Warren, Lake, Pulaski, Laporte, White, Porter, Fountain, Starke","Residential Vacant",5,0.99,1.01,1.06,27.96,40.9,1.38,0,207
+"2.5%13","Jasper, Newton, Warren, Tippecanoe, Lake, White, Porter, Pulaski, Benton, Fountain, Laporte, Starke","Residential Improved",5,0.96,0.97,0.97,30.32,94.9,1.15,0,2959
+"13","","Industrial Vacant",2,NA,NA,NA,NA,NA,NA,NA,0
+"df_sp7","Owen, Clay, Morgan, Putnam, Montgomery","Industrial Improved",2,0.89,0.96,1.09,13.46,16.61,1.02,0,6
+"2.5%14","Parke, Hamilton, Boone, Morgan, Vigo, Clay, Hendricks, Montgomery","Commercial Vacant",2,0.36,0.69,0.98,50.54,61.52,1.25,0,34
+"2.5%15","Morgan, Tippecanoe, Vigo, Putnam, Brown, Montgomery, Parke, Hendricks, Greene, Fountain, Boone, Clay, Owen, Vermillion, Johnson, Sullivan","Commercial Improved",2,0.93,0.96,0.98,20.41,41.88,1.1,0,110
+"2.5%16","Hamilton, Johnson, Boone, Putnam, Hendricks, Montgomery, Morgan, Fountain, Clinton, Vigo, Parke, Tippecanoe, Warren, Brown, Vermillion, Owen, Clay, Monroe, Sullivan, Greene","Residential Vacant",2,0.83,0.87,0.91,39.13,55.22,1.16,0,573
+"2.5%17","Morgan, Hendricks, Hamilton, Monroe, Putnam, Tippecanoe, Montgomery, Brown, Clinton, Boone, Clay, Warren, Vigo, Fountain, Owen, Vermillion, Parke, Greene, Johnson, Sullivan, Tipton","Residential Improved",2,0.93,0.94,0.94,14.46,28.21,1.03,0,4187
+"14","Starke, Marshall, St. Joseph","Industrial Vacant",6,NA,NA,NA,NA,NA,NA,NA,0
+"2.5%18","Miami, Cass, Pulaski, Carroll, Fulton, Starke, Kosciusko, Marshall, St. Joseph","Industrial Improved",6,0.85,0.95,1.00025,28.17,62.54,1.23,0,30
+"df_sp8","Cass, Carroll, Marshall, Starke","Commercial Vacant",6,0.37,0.72,0.99,41.75,50.89,1.27,0,15
+"2.5%19","Carroll, Cass, Starke, Pulaski, Miami, Fulton, Marshall, Howard, Kosciusko, St. Joseph","Commercial Improved",6,0.92,0.94,0.99,21.67,35.7,1.09,0,176
+"2.5%20","Miami, Cass, Marshall, Howard, Carroll, Starke, Fulton, Pulaski, Laporte, St. Joseph, Tipton, White, Kosciusko, Wabash","Residential Vacant",6,0.97,1,1.03,34.03,50.28,1.64,0,290
+"2.5%21","Cass, Carroll, White, Fulton, St. Joseph, Starke, Miami, Pulaski, Tippecanoe, Marshall, Tipton, Laporte, Howard, Clinton, Kosciusko, Wabash, Elkhart","Residential Improved",6,0.93,0.94,0.94,17.84,38.35,1.06,0,4684
+"df_sp9","Warrick, Knox, Perry","Industrial Vacant",4,0.33,0.97,1.28,33.16,50.99,1.29,0,6
+"df_sp10","Knox, Orange, Pike, Lawrence, Posey, Dubois, Perry, Warrick, Harrison","Industrial Improved",4,0.98,1.01,1.06,19.75,34.64,1.12,0,12
+"df_sp11","Orange, Harrison, Daviess, Washington, Sullivan, Posey, Warrick","Commercial Vacant",4,0.1,0.96,1.05,38.66,63.8,3.28,0,14
+"2.5%22","Orange, Sullivan, Lawrence, Washington, Warrick, Spencer, Gibson, Perry, Knox, Posey, Harrison, Martin, Crawford, Pike, Dubois, Greene","Commercial Improved",4,0.93,0.94,0.97,16.64,25.37,1.08,0,200
+"2.5%23","Lawrence, Pike, Daviess, Orange, Washington, Spencer, Harrison, Martin, Crawford, Warrick, Posey, Perry, Knox, Dubois, Gibson, Floyd, Greene, Monroe","Residential Vacant",4,0.96,0.99,1.02,26.75,38.48,1.22,0,628
+"2.5%24","Lawrence, Orange, Martin, Harrison, Pike, Gibson, Spencer, Crawford, Dubois, Knox, Daviess, Floyd, Washington, Posey, Perry, Warrick, Monroe, Greene, Sullivan, Vanderburgh, Jackson, Clark","Residential Improved",4,0.92,0.93,0.93,18.38,34.07,1.07,0,3715
+"df_sp12","Allen","Industrial Vacant",14,0.48,0.9,1.02,27.76,37.69,1.57,0,14
+"2.5%25","Allen, Dekalb, Steuben","Industrial Improved",14,0.88,0.92,0.94,9.04,15.56,1.05,0,23
+"df_sp13","Steuben, Allen, Dekalb","Commercial Vacant",14,0.87,0.93,0.99,15.66,31,0.98,0,15
+"2.5%26","Steuben, Allen, Lagrange, Dekalb, Noble, Wells","Commercial Improved",14,0.89,0.93,0.95,12.58,19.31,1.03,0,118
+"2.5%27","Allen, Steuben, Dekalb, Noble, Lagrange, Wells","Residential Vacant",14,0.82,0.96,1.05,35.16,49.68,1.26,0,129
+"2.5%28","Allen, Steuben, Dekalb, Wells, Noble, Lagrange, Grant, Randolph, Whitley, Wabash","Residential Improved",14,0.99,0.99,0.99,15.67,46.25,1.05,0,7042
+"15","Floyd, Monroe","Industrial Vacant",13,NA,NA,NA,NA,NA,NA,NA,0
+"df_sp14","Clark, Floyd, Monroe, Lawrence, Dearborn","Industrial Improved",13,0.61,0.69,0.77,47.14,65.44,1.25,0,9
+"df_sp15","Dearborn, Floyd, Clark, Monroe, Bartholomew","Commercial Vacant",13,0.2,0.33,0.89,110.53,92.51,1.55,0,16
+"2.5%29","Monroe, Clark, Lawrence, Floyd, Bartholomew, Dearborn, Jennings, Harrison, Scott","Commercial Improved",13,0.95,0.96,0.98,16.98,26.43,1.04,0,275
+"2.5%30","Lawrence, Clark, Dearborn, Floyd, Scott, Jackson, Brown, Monroe, Bartholomew, Harrison, Owen","Residential Vacant",13,1,1.03,1.06,25.14,36.88,1.31,0,363
+"2.5%31","Lawrence, Clark, Monroe, Floyd, Dearborn, Brown, Bartholomew, Martin, Scott, Harrison, Owen, Jennings, Franklin, Ripley","Residential Improved",13,0.94,0.94,0.95,15.33,24.32,1.04,0,7833
+"df_sp16","Johnson, Marion, Madison","Industrial Vacant",11,0.9,1,1,20.78,37.89,1.06,0,15
+"2.5%32","Hancock, Henry, Howard, Marion, Johnson, Wayne, Hamilton, Delaware, Hendricks","Industrial Improved",11,0.83,0.89,0.93,15.36,22.26,1.03,0,52
+"2.5%33","Hamilton, Boone, Johnson, Hendricks, Hancock, Henry, Madison, Howard, Marion, Morgan, Wayne","Commercial Vacant",11,0.24,0.39,0.68,101.59,88.82,1.47,0,114
+"2.5%34","Morgan, Delaware, Boone, Howard, Marion, Hancock, Hamilton, Madison, Henry, Johnson, Wayne, Grant, Monroe, Hendricks","Commercial Improved",11,0.92,0.93,0.95,17.57,26.8,1.04,0,543
+"2.5%35","Hendricks, Marion, Johnson, Hamilton, Madison, Hancock, Boone, Howard, Delaware, Henry, Shelby, Morgan, Wayne, Monroe","Residential Vacant",11,0.39,0.55,0.63,86.18,95.3,1.07,0,1981
+"2.5%36","Morgan, Marion, Hendricks, Boone, Johnson, Hancock, Howard, Hamilton, Delaware, Henry, Grant, Madison, Wayne, Brown, Tipton, Miami, Cass, Monroe, Shelby","Residential Improved",11,0.93,0.93,0.93,14.33,32.58,1.04,0,42257
+"16","Tippecanoe","Industrial Vacant",12,NA,NA,NA,NA,NA,NA,NA,0
+"df_sp17","Tippecanoe, Vigo","Industrial Improved",12,0.55,0.98,1.33,36.36,51.15,2.27,0,16
+"df_sp18","Tippecanoe, Vigo","Commercial Vacant",12,0.23,0.34,0.63,85.86,85.76,1.78,0,15
+"2.5%37","Tippecanoe, Vigo, White, Carroll, Clay","Commercial Improved",12,0.74975,0.77,0.82,39.07,61.8,1.21,0,238
+"2.5%38","Tippecanoe, Vigo, Carroll, Boone, White, Clay","Residential Vacant",12,1.01,1.03,1.06,19.09,31.3,1.33,0,324
+"2.5%39","Tippecanoe, Boone, White, Carroll, Vigo, Clay, Warren, Montgomery, Cass, Fountain, Owen, Howard","Residential Improved",12,0.88,0.88,0.89,19.34,36.73,1.06,0,5391
+"17","Vanderburgh, Dubois","Industrial Vacant",10,NA,NA,NA,NA,NA,NA,NA,0
+"df_sp19","Dubois, Warrick, Vanderburgh, Knox","Industrial Improved",10,0.83,0.88,0.98,15.68,23.92,1,0,14
+"2.5%40","Vanderburgh, Warrick, Knox","Commercial Vacant",10,0.54,0.74,0.89,55.66,83.92,1.21,0,48
+"2.5%41","Knox, Dubois, Warrick, Vanderburgh, Greene","Commercial Improved",10,0.88,0.91,0.94,19.61,32.71,1.05,0,139
+"2.5%42","Warrick, Vanderburgh, Greene, Knox, Dubois, Posey, Spencer, Sullivan","Residential Vacant",10,1.05,1.07,1.08,149.93,120.6,1.22,0,693
+"2.5%43","Dubois, Spencer, Knox, Vanderburgh, Warrick, Posey, Greene, Sullivan, Pike","Residential Improved",10,0.94,0.95,0.95,13.71,28.23,1.02,0,4248
+"df_sp20","Kosciusko, St. Joseph, Elkhart","Industrial Vacant",8,0.28,1.03,1.28,49.26,65.84,1.87,0,10
+"2.5%44","Elkhart, Kosciusko, St. Joseph","Industrial Improved",8,0.84,0.91,1.05,21.08,24.8,1,0,55
+"df_sp21","St. Joseph, Elkhart, Kosciusko","Commercial Vacant",8,0.4,0.68,1.09,47.82,55.87,1.29,0,13
+"2.5%45","Kosciusko, St. Joseph, Elkhart, Noble, Laporte","Commercial Improved",8,0.94,0.98,1,18.54,23.57,1.02,0,230
+"2.5%46","St. Joseph, Kosciusko, Elkhart, Laporte","Residential Vacant",8,0.97,1,1.06,39.71,59.87,1.38,0,332
+"2.5%47","St. Joseph, Kosciusko, Elkhart, Laporte, Noble, Wabash, Lagrange, Miami","Residential Improved",8,0.93,0.94,0.94,17.55,35.89,1.06,0,6692
+"df_sp22","Lake, Jasper","Industrial Vacant",9,1,1.05,1.16,27.92,45.17,1.16,0,10
+"2.5%48","Lake, Jasper","Industrial Improved",9,0.95,0.97,0.98,12.13,39.88,1.11,0,48
+"2.5%49","Newton, Lake","Commercial Vacant",9,0.89,0.99,1,14.76,24,0.99,0,29
+"2.5%50","Lake, Porter, Laporte, Newton, Jasper","Commercial Improved",9,0.98,0.98,0.98025,11.56,33.24,1.06,0,601
+"2.5%51","Laporte, Newton, Lake, Porter, Jasper","Residential Vacant",9,1,1.02,1.05,23.24,37.45,1.13,0,458
+"2.5%52","Lake, Newton, Porter, Laporte, Jasper","Residential Improved",9,0.98,0.98,0.98,13.02,34.37,1.04,0,17325
